@@ -11,3 +11,6 @@
 
 > [Data Camp Lego](https://github.com/jandroi/DC_Lego/blob/master/notebook.ipynb)
 > Datacamp.com Lego excercise Notebook
+
+> [Data Camp TV Halftime](https://github.com/jandroi/DC_TV_Analysis/blob/main/notebook.ipynb)
+> Datacamp.com TV Halftime Analysis excercise Notebook
